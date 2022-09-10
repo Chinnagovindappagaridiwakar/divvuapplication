@@ -1,2 +1,2 @@
 This is FILE A
-this is changed  file git 
+this is changed  file git  gitr
